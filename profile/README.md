@@ -5,5 +5,8 @@ We craft cutting-edge, lightning-fast websites and tailored cloud web applicatio
 **Website:** \
 [pointup.cz](https://www.pointup.cz)
 
+**Instagram:** \
+[@pointup.digital]((https://www.instagram.com/pointup.digital/)
+
 **E-mail:** \
 [info@pointup.cz](mailto:info@pointup.cz)
